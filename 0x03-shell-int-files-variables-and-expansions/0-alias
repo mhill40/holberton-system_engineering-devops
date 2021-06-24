@@ -1,0 +1,12 @@
+0x03 assignment mhill40. Followed instructions and created all 3 files, writing in ths one. aliased like im supposed to.
+
+matt@matth-4gbneuralcube:~/holberton-system_engineering-devops$ cd 0x03-shell-int-files-variables-and-expansions/
+matt@matth-4gbneuralcube:~/holberton-system_engineering-devops/0x03-shell-int-files-variables-and-expansions$ touch 0-alias  file1  file2
+matt@matth-4gbneuralcube:~/holberton-system_engineering-devops/0x03-shell-int-files-variables-and-expansions$ source ./0-alias
+matt@matth-4gbneuralcube:~/holberton-system_engineering-devops/0x03-shell-int-files-variables-and-expansions$ ls
+0-alias  file1  file2
+matt@matth-4gbneuralcube:~/holberton-system_engineering-devops/0x03-shell-int-files-variables-and-expansions$ \ls
+0-alias  file1  file2
+matt@matth-4gbneuralcube:~/holberton-system_engineering-devops/0x03-shell-int-files-variables-and-expansions$ 
+matt@matth-4gbneuralcube:~/holberton-system_engineering-devops/0x03-shell-int-files-variables-and-expansions$ sudo nano 0
+
