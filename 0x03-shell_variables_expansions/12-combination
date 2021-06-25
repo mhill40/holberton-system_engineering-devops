@@ -1,4 +1,4 @@
-oi
+tail -303 | head -10
 oj
 ok
 ol
