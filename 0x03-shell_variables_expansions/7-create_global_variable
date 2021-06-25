@@ -1,4 +1,2 @@
 #! /bin/bash
-let Name = BETTY
-let Value = Holberton
-const nameOfGlobalVariable
+const nameOfGlobalVariable = "0x03 assignment"
