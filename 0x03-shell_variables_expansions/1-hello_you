@@ -1,1 +1,2 @@
-$ECHO Hello MattH (Julien)
+#!/bin/bash
+echo $USER
