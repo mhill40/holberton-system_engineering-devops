@@ -1,2 +1,3 @@
+#! /bin/bash
 let Name = BETTY
 let Value = Holberton
